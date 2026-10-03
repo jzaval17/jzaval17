@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg?v=blue2" alt="Juan Zavala — IT and Software Development" width="100%" />
+  <img src="https://raw.githubusercontent.com/jzaval17/jzaval17/413f5ed887cc787a514079944bba4103ce65f837/assets/banner.svg" alt="Juan Zavala — IT and Software Development" width="100%" />
 </p>
 
 <h1 align="center">Juan Zavala</h1>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jz805/"><img src="./assets/linkedin.svg?v=blue2" alt="Connect on LinkedIn" height="28" /></a>
-  <a href="mailto:jazavala805@gmail.com"><img src="./assets/email.svg?v=blue2" alt="Email Juan" height="28" /></a>
-  <a href="https://github.com/jzaval17?tab=repositories"><img src="./assets/projects.svg?v=blue2" alt="Explore my repositories" height="28" /></a>
+  <a href="https://www.linkedin.com/in/jz805/"><img src="https://raw.githubusercontent.com/jzaval17/jzaval17/413f5ed887cc787a514079944bba4103ce65f837/assets/linkedin.svg" alt="Connect on LinkedIn" height="28" /></a>
+  <a href="mailto:jazavala805@gmail.com"><img src="https://raw.githubusercontent.com/jzaval17/jzaval17/413f5ed887cc787a514079944bba4103ce65f837/assets/email.svg" alt="Email Juan" height="28" /></a>
+  <a href="https://github.com/jzaval17?tab=repositories"><img src="https://raw.githubusercontent.com/jzaval17/jzaval17/413f5ed887cc787a514079944bba4103ce65f837/assets/projects.svg" alt="Explore my repositories" height="28" /></a>
 </p>
 
 ---
@@ -34,7 +34,7 @@ My background includes IT support leadership at Cal Poly ITS, infrastructure ope
 ## Technical toolkit
 
 <p>
-  <img src="./assets/stack.svg?v=blue2" alt="Active Directory, Windows, Linux, Python,JavaScript, SQL, AWS EC2, Git, TCP/IP and DNS, Prometheus, Grafana, and Java" width="100%" />
+  <img src="https://raw.githubusercontent.com/jzaval17/jzaval17/413f5ed887cc787a514079944bba4103ce65f837/assets/stack.svg" alt="Active Directory, Windows, Linux, Python, JavaScript, SQL, AWS EC2, Git, TCP/IP and DNS, Prometheus, Grafana, and Java" width="100%" />
 </p>
 
 **Systems & support:** macOS · Jamf · Jira · ScreenConnect · DHCP · SSH<br />
