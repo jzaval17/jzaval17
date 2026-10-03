@@ -1,19 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Juan Zavala. Software, data, and a little curiosity.">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171321"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#f9a8d4"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
-  </defs>
-  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
-  <circle cx="1090" cy="125" r="172" fill="none" stroke="#f9a8d4" stroke-opacity=".13"/>
-  <circle cx="1090" cy="125" r="128" fill="none" stroke="#c4b5fd" stroke-opacity=".15"/>
-  <circle cx="1090" cy="125" r="84" fill="none" stroke="#f9a8d4" stroke-opacity=".18"/>
-  <path d="M935 190L1000 110L1065 157L1140 72" fill="none" stroke="url(#accent)" stroke-width="3"/>
-  <g fill="#f9a8d4"><circle cx="935" cy="190" r="5"/><circle cx="1000" cy="110" r="5"/><circle cx="1065" cy="157" r="5"/><circle cx="1140" cy="72" r="5"/></g>
-  <rect x="64" y="54" width="40" height="4" rx="2" fill="url(#accent)"/>
-  <text x="64" y="93" fill="#f9a8d4" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">HELLO, WORLD / JZAVAL17</text>
-  <text x="60" y="162" fill="#f4f0f7" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Juan Zavala</text>
-  <text x="64" y="207" fill="#b8b2c5" font-family="Segoe UI,Arial,sans-serif" font-size="23">Software, data, and a little curiosity.</text>
-  <rect x="64" y="245" width="1072" height="2" rx="1" fill="url(#accent)" opacity=".65"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Juan Zavala. IT and Software Development.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101e32"/><stop offset="1" stop-color="#080f1b"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#2289ff"/><stop offset="1" stop-color="#62caff"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#60a5fa" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="280" rx="8" fill="url(#bg)"/>
+<rect width="1200" height="280" rx="8" fill="url(#grid)"/>
+<rect width="6" height="280" fill="url(#accent)"/>
+<g fill="none" stroke="#3088d9" stroke-width="2" opacity=".55">
+<path d="M835 66H919V120H1018V189H1136"/>
+<path d="M835 208H890V164H965V87H1136"/>
+<path d="M1048 38V133H1110V241"/>
+<rect x="934" y="129" width="62" height="62" rx="6" fill="#10243b"/>
+</g>
+<g fill="#71c4ff"><circle cx="835" cy="66" r="4"/><circle cx="1136" cy="189" r="4"/><circle cx="835" cy="208" r="4"/><circle cx="1136" cy="87" r="4"/><circle cx="1048" cy="38" r="4"/><circle cx="1110" cy="241" r="4"/></g>
+<text x="946" y="170" fill="#69b8ff" font-family="Consolas,monospace" font-size="26">&lt;/&gt;</text>
+<text x="64" y="75" fill="#67b8ff" font-family="Consolas,monospace" font-size="16" letter-spacing="3">JZAVAL17 / SYSTEMS + CODE</text>
+<text x="60" y="146" fill="#f1f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Juan Zavala</text>
+<text x="64" y="191" fill="#c0d2e8" font-family="Segoe UI,Arial,sans-serif" font-size="25">IT &amp; Software Development</text>
+<text x="64" y="229" fill="#7991ad" font-family="Consolas,monospace" font-size="15">RELIABLE SYSTEMS. PRACTICAL SOFTWARE.</text>
 </svg>
